@@ -12,10 +12,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NBSzilard&label=Profil%20Megtekintések&color=0e75b6&style=flat" alt="Profil megtekintések" />
-</div>
-
 ---
 
 <div align="center">
